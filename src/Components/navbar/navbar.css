@@ -1,0 +1,186 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Playfair Display;
+  ;
+}
+
+.Navbar-Section {
+  min-width: 1800px;
+  height: 129px;
+  margin: 0px;
+  position: relative;
+}
+
+.head-Nav {
+  min-width: 1800px;
+  height: 45px;
+  background-color: #474747;
+}
+
+.left-head-nav {
+  position: absolute;
+  top: 11px;
+  left: 150px;
+  width: 344px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: #fff;
+}
+.left-call  span {
+  margin-left: 10px;
+}
+.left-call-img {
+  width: 13.5px;
+  height: 13.5px;
+}
+.left-call-text{
+  width: 120px;
+  height: 24px;
+  font-size: 16px;
+  font-family: DM sans;
+  font-weight: Regular;
+  line-height: 24px;
+  color: #F9F9F7;
+}
+
+.left-mail {
+  width: 173px;
+  height: 24px;
+}
+
+.left-mail-img {
+  width: 13.5px;
+  height: 15.5px;
+  border-radius: Mixed;
+  color: #FFFFFF;
+}
+
+.left-mail  span {
+  margin-left: 10px;
+}
+
+.right-head-nav {
+  position: absolute;
+  top: 9px;
+  left: 1325px;
+  width: 120.68px;
+  height: 27.17px;
+}
+
+.right-side-socials {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style: none;
+}
+.right-side-socials li {
+  margin: 2px;
+}
+
+.socials-container {
+  width: 27.17px;
+  height: 27.17px;
+  color: #F9F9F7;
+}
+
+.section-Navbar {
+  min-width: 1800px;
+  height: 129px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  height: 129px;
+}
+
+
+.contact p {
+  font-family: sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  width: 147px;
+}
+
+.navbar-nav {
+  margin-right: 21%;
+}
+
+.btn {
+  color: #182226;
+  width: 147px;
+  height: 48px;
+  border-radius: 118px;
+}
+
+.navbar-brand {
+  width: 211px;
+  height: 30px;
+  font-size: 42.67px;
+  color: #474747;
+  font-family: cuisine;
+  font-style: italic;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.nav-item {
+  width: 45px;
+  height: 24px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s;
+}
+
+.nav-item a:hover {
+  width: 77px;
+  height: 32px;
+  padding-bottom: 4px;
+  background-color: #DBDFD0;
+  border-radius: 34px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.siteTitle {
+  width: 211px;
+  letter-spacing: -0.4px;
+  font-family: Playfair Display;
+  font-style: italic;
+  line-height: 29.3px;
+  word-spacing: 0;
+  font-size: 42.67px;
+}
+
+.title-icons {
+  position: relative;
+  margin-right: 100px;
+}
+
+.site-contact {
+  position: absolute;
+  top: -0.1rem;
+  margin: 0px 100px;
+}
+
+.site-contact img {
+  top: 10px;
+}
+
+.social-icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  box-sizing: border-box;
+}
