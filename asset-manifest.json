@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Amit-Project/static/css/main.2e78911d.css",
+    "main.css": "/Amit-Project/static/css/main.95c459e1.css",
     "main.js": "/Amit-Project/static/js/main.b5a6906f.js",
     "static/js/776.ab4e93f1.chunk.js": "/Amit-Project/static/js/776.ab4e93f1.chunk.js",
     "static/js/144.792fac1d.chunk.js": "/Amit-Project/static/js/144.792fac1d.chunk.js",
@@ -28,13 +28,13 @@
     "static/media/Andy.png": "/Amit-Project/static/media/Andy.b4c0c0ebb8db372d549f.png",
     "static/media/japanese-food.svg": "/Amit-Project/static/media/japanese-food.edc7bbd8512f44aecd026c81bf75dc49.svg",
     "index.html": "/Amit-Project/index.html",
-    "main.2e78911d.css.map": "/Amit-Project/static/css/main.2e78911d.css.map",
+    "main.95c459e1.css.map": "/Amit-Project/static/css/main.95c459e1.css.map",
     "main.b5a6906f.js.map": "/Amit-Project/static/js/main.b5a6906f.js.map",
     "776.ab4e93f1.chunk.js.map": "/Amit-Project/static/js/776.ab4e93f1.chunk.js.map",
     "144.792fac1d.chunk.js.map": "/Amit-Project/static/js/144.792fac1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e78911d.css",
+    "static/css/main.95c459e1.css",
     "static/js/main.b5a6906f.js"
   ]
 }
