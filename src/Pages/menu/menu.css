@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Playfair+Display:wght@400;500&display=swap');
+
+.menu-section {
+  position: relative;
+  width: 1600px;
+  height: 2175px;
+}
+
+
+.upper-menu-section {
+  position: absolute;
+  left: 159px;
+  top: -120px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  align-items: center;
+  margin-top: 88px;
+  width: 1600px;
+  height: 1585px;
+}
+
+.upperMenu-Container {
+  width: 1282.77px;
+  height: 1238px;
+  border-radius: Mixed;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.upperMenu-details {
+  position: absolute;
+  left: 422.15px;
+  top: 214px;
+  width: 780px;
+  height: 270px;
+  
+}
+
+.upperDetails-title {
+  position: absolute;
+  left: 111.5px;
+  top: 0px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  width: 557px;
+  height: 172px;
+}
+
+
+.upperMenu-title {
+  width: 460px;
+  height: 96px;
+  font-family: 'Playfair Display', serif;
+  font-size: 100px;
+  line-height: 96px;
+  color: #2C2F24;
+}
+
+.upperMenu-para {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 557px;
+  height: 56px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  color: #495460;
+}
+
+.upperMenu-btn {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  left: 0px;
+  top: 222px;
+  min-width: 780px;
+  height: 48px;
+}
+
+.upperMenu-btn button {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 0 15px;
+}
+
+.upperMenu-buttonRed {
+  background-color: #AD343E;
+  border: 1px solid #AD343E;
+  text-decoration: none;
+  width: 120px;
+  height: 48px;
+  border-radius: 50px;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: bold;
+  line-height: 24px;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+.upperMenu-button {
+  width: 150px;
+  height: 48px;
+  border-radius: 50px;
+  background-color: #FFFFFF;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: bold;
+  line-height: 24px;
+  font-size: 16px;
+  color: #2C2F24;
+}
+
+.upperMenu-Cards {
+  position: absolute;
+  left: 166.78px;
+  top: 572px;
+  width: 1283px;
+  height: 880px;
+  border-radius: Mixed;
+  margin: 24px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.upperMenuCard {
+  width: 302.88px;
+  height: 428px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1.5px solid #DBDFD0;
+  border-radius: 12px;
+}
+
+.upperMenuCard-img {
+  width: 302.88px;
+  height: 230px;
+  border-radius: Mixed;
+  margin-bottom: 15px;
+}
+
+.upperMenuCard-details {
+  min-width: 246px;
+  height: 134px;
+  display: flex;
+  margin-top: 15px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.upperMenuCard-price {
+  min-width: 75px;
+  height: 30px;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: bold;
+  line-height: 30px;
+  font-size: 24px;
+  letter-spacing: -3%;
+  color: #74262d;
+}
+
+.upperMenuCard-title {
+  min-width: 101px;
+  height: 26px;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: bold;
+  line-height: 26px;
+  font-size: 20px;
+  letter-spacing: 0%;
+  color: #181a14;
+  margin: 15px 0;
+}
+
+.upperMenuCard-description {
+  width: 246px;
+  height: 48px;
+  font-family: 'DM Sans', sans-serif;
+  line-height: 24px;
+  font-size: 16px;
+  letter-spacing: 0%;
+  color: #414536;
+}
+
+.lower-menu-section {
+  position: absolute;
+  left: 0px;
+  top: 1585px;
+  margin: auto;
+  min-width: 1800px;
+  height: 590px;
+  background-color: #F9F9F7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lowerMenu-Container {
+  width: 1296px;
+  height: 350px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.lowerMenu-leftSide {
+  width: 346px;
+  height: 213px;
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.lowerLeftSide-title {
+  width: 346px;
+  height: 121px;
+  font-family: 'Playfair Display', serif;
+  font-size: 55px;
+  line-height: 60.5px;
+  color: #2C2F24;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.lowerLeftSide-para {
+  width: 346px;
+  height: 72px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: Regular;
+  text-align: left;
+  color: #414536;
+}
+.lowerMenu-rightSide {
+  width: 828px;
+  height: 350px;
+  margin: 40px 0;
+}
+
+.lowerMenu-rightSide {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+
+.lowerRightMenu-up {
+  width: 710.73px;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.uberEats-img {
+  width: 220.91px;
+  height: 90px;
+  background-color: #FFFFFF;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rightMenuUp-imgs {
+  width: 151.98px;
+  height: 24.55px;
+}
+
+.grubHub-img {
+  width: 220.91px;
+  height: 90px;
+  background-color: #FFFFFF;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.postMates-img {
+  width: 220.91px;
+  height: 90px;
+  background-color: #FFFFFF;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lowerRightMenu-mid {
+  width: 828px;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.doorDash-img {
+  width: 260px;
+  height: 90px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F9F9F7;
+}
+
+.foodPanda-img {
+  width: 260px;
+  height: 90px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F9F9F7;
+}
+
+.deliver-img {
+  width: 260px;
+  height: 90px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F9F9F7;
+}
+
+.lowerRightMenu-bottom {
+  width: 738px;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.instaCart-img {
+  width: 230px;
+  height: 90px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F9F9F7;
+}
+
+.justEat-img {
+  width: 230px;
+  height: 90px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F9F9F7;
+}
+
+.didiFood-img {
+  width: 230px;
+  height: 90px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F9F9F7;
+}
