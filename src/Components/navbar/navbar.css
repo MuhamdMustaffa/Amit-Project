@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Playfair+Display&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -118,7 +120,16 @@
   width: 147px;
   height: 48px;
   border-radius: 118px;
+  cursor: pointer;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  color: #182226;
+  border: 1px solid #182226;
 }
+
 
 .navbar-brand {
   width: 211px;

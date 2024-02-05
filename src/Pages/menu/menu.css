@@ -317,7 +317,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #F9F9F7;
+  background-color: #FFFFFF;
 }
 
 .foodPanda-img {
@@ -327,8 +327,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #F9F9F7;
-}
+  background-color: #FFFFFF;}
 
 .deliver-img {
   width: 260px;
@@ -337,7 +336,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #F9F9F7;
+  background-color: #FFFFFF;
 }
 
 .lowerRightMenu-bottom {
@@ -354,7 +353,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #F9F9F7;
+  background-color: #FFFFFF;
 }
 
 .justEat-img {
@@ -364,7 +363,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #F9F9F7;
+  background-color: #FFFFFF;
 }
 
 .didiFood-img {
@@ -374,5 +373,5 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #F9F9F7;
+  background-color: #FFFFFF;
 }

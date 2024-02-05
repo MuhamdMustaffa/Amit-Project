@@ -102,8 +102,8 @@ const Navbar = () => {
             </ul>
             <form className="d-flex" role="search">
               <NavLink to='/book'>
-                <button className="btn btn-outline-secondary ms-5" type="submit">
-                <b>Book A Table</b>
+                <button className="btn bookBtn btn-outline-secondary ms-5" type="submit">
+                Book A Table
               </button>
               </NavLink>
               
