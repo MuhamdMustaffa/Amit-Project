@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Amit-Project/static/css/main.f7ae4727.css",
-    "main.js": "/Amit-Project/static/js/main.08445c28.js",
+    "main.css": "/Amit-Project/static/css/main.df435784.css",
+    "main.js": "/Amit-Project/static/js/main.cac45441.js",
     "static/js/776.ab4e93f1.chunk.js": "/Amit-Project/static/js/776.ab4e93f1.chunk.js",
     "static/js/144.792fac1d.chunk.js": "/Amit-Project/static/js/144.792fac1d.chunk.js",
+    "static/media/Map.png": "/Amit-Project/static/media/Map.fcf77979d879368a17e6.png",
     "static/media/bg.jpg": "/Amit-Project/static/media/bg.031ffa607033a97a1cab.jpg",
     "static/media/sec2-img.png": "/Amit-Project/static/media/sec2-img.8dffe05e5c2605548b21.png",
     "static/media/Cooking.png": "/Amit-Project/static/media/Cooking.3c4d7aa8d3d9688d5e7a.png",
@@ -34,13 +35,13 @@
     "static/media/Andy.png": "/Amit-Project/static/media/Andy.b4c0c0ebb8db372d549f.png",
     "static/media/japanese-food.svg": "/Amit-Project/static/media/japanese-food.edc7bbd8512f44aecd026c81bf75dc49.svg",
     "index.html": "/Amit-Project/index.html",
-    "main.f7ae4727.css.map": "/Amit-Project/static/css/main.f7ae4727.css.map",
-    "main.08445c28.js.map": "/Amit-Project/static/js/main.08445c28.js.map",
+    "main.df435784.css.map": "/Amit-Project/static/css/main.df435784.css.map",
+    "main.cac45441.js.map": "/Amit-Project/static/js/main.cac45441.js.map",
     "776.ab4e93f1.chunk.js.map": "/Amit-Project/static/js/776.ab4e93f1.chunk.js.map",
     "144.792fac1d.chunk.js.map": "/Amit-Project/static/js/144.792fac1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7ae4727.css",
-    "static/js/main.08445c28.js"
+    "static/css/main.df435784.css",
+    "static/js/main.cac45441.js"
   ]
 }
