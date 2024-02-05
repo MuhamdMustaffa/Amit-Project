@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Amit-Project/static/css/main.95c459e1.css",
-    "main.js": "/Amit-Project/static/js/main.b5a6906f.js",
+    "main.css": "/Amit-Project/static/css/main.f7ae4727.css",
+    "main.js": "/Amit-Project/static/js/main.08445c28.js",
     "static/js/776.ab4e93f1.chunk.js": "/Amit-Project/static/js/776.ab4e93f1.chunk.js",
     "static/js/144.792fac1d.chunk.js": "/Amit-Project/static/js/144.792fac1d.chunk.js",
     "static/media/bg.jpg": "/Amit-Project/static/media/bg.031ffa607033a97a1cab.jpg",
@@ -11,30 +11,36 @@
     "static/media/Image.jpg": "/Amit-Project/static/media/Image.f56144d5000f15c3c3cd.jpg",
     "static/media/burger.png": "/Amit-Project/static/media/burger.35dddf03a69ec39fba2e.png",
     "static/media/chef-holding-plate.jpg": "/Amit-Project/static/media/chef-holding-plate.9b9b886088bec6f2cbf9.jpg",
-    "static/media/sour-curry-with-snakehead-fish.jpg": "/Amit-Project/static/media/sour-curry-with-snakehead-fish.0ab8e9fd6448144befdd.jpg",
     "static/media/Pizza.png": "/Amit-Project/static/media/Pizza.fde04f062a1ad523fb3d.png",
+    "static/media/Burger.png": "/Amit-Project/static/media/Burger.22b2b2cf8194c96affd0.png",
+    "static/media/sour-curry-with-snakehead-fish.jpg": "/Amit-Project/static/media/sour-curry-with-snakehead-fish.0ab8e9fd6448144befdd.jpg",
+    "static/media/Waffles.png": "/Amit-Project/static/media/Waffles.c70f10459addcfefa4ba.png",
+    "static/media/Mask group.png": "/Amit-Project/static/media/Mask group.8ee93f633f6a9da47dfc.png",
     "static/media/kebab-set-table 1.jpg": "/Amit-Project/static/media/kebab-set-table 1.52b9871e6a644963bad2.jpg",
+    "static/media/Gateaux.png": "/Amit-Project/static/media/Gateaux.ff3f232a7f168c134182.png",
+    "static/media/Couple of Cups.png": "/Amit-Project/static/media/Couple of Cups.9980878a4c80d34c3fd1.png",
     "static/media/Mask group3.jpg": "/Amit-Project/static/media/Mask group3.2173054a5adec291eeb3.jpg",
     "static/media/potatos.png": "/Amit-Project/static/media/potatos.b077bba892b97d2c541b.png",
     "static/media/sadj-iron-pot.jpg": "/Amit-Project/static/media/sadj-iron-pot.7062e78cafcd8505d140.jpg",
     "static/media/Mask group.jpg": "/Amit-Project/static/media/Mask group.025eaf0015cec1a2ab45.jpg",
+    "static/media/ICE Cream.png": "/Amit-Project/static/media/ICE Cream.35ae57b1624a6d41b684.png",
+    "static/media/Lemonade.png": "/Amit-Project/static/media/Lemonade.3487a0ff965354c434c9.png",
     "static/media/crespy.png": "/Amit-Project/static/media/crespy.0b3a4717da7190d3bfbb.png",
     "static/media/chocolate.png": "/Amit-Project/static/media/chocolate.ac992695c47b22a4ea63.png",
     "static/media/Mask group2.jpg": "/Amit-Project/static/media/Mask group2.ebfdb0e4099de32ab3a1.jpg",
     "static/media/Mask group (2).png": "/Amit-Project/static/media/Mask group (2).b93a9ff3290d0a93917b.png",
     "static/media/Mask group (3).png": "/Amit-Project/static/media/Mask group (3).1bc2d4f76605c91a0deb.png",
     "static/media/Mask group (1).png": "/Amit-Project/static/media/Mask group (1).8a6d8b0529a654eba084.png",
-    "static/media/Mask group.png": "/Amit-Project/static/media/Mask group.8ee93f633f6a9da47dfc.png",
     "static/media/Andy.png": "/Amit-Project/static/media/Andy.b4c0c0ebb8db372d549f.png",
     "static/media/japanese-food.svg": "/Amit-Project/static/media/japanese-food.edc7bbd8512f44aecd026c81bf75dc49.svg",
     "index.html": "/Amit-Project/index.html",
-    "main.95c459e1.css.map": "/Amit-Project/static/css/main.95c459e1.css.map",
-    "main.b5a6906f.js.map": "/Amit-Project/static/js/main.b5a6906f.js.map",
+    "main.f7ae4727.css.map": "/Amit-Project/static/css/main.f7ae4727.css.map",
+    "main.08445c28.js.map": "/Amit-Project/static/js/main.08445c28.js.map",
     "776.ab4e93f1.chunk.js.map": "/Amit-Project/static/js/776.ab4e93f1.chunk.js.map",
     "144.792fac1d.chunk.js.map": "/Amit-Project/static/js/144.792fac1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95c459e1.css",
-    "static/js/main.b5a6906f.js"
+    "static/css/main.f7ae4727.css",
+    "static/js/main.08445c28.js"
   ]
 }
