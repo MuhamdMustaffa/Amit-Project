@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500&family=Playfair+Display&display=swap');
+
+
+.blogSection{
+  min-width: 1600px;
+  height: 1667px;
+  background-color: #F9F9F7;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.blogSectionBody {
+  position: absolute;
+  left: 152px;
+  top: 197px;
+  width: 1296px;
+  height: 1332px;
+  margin: 72px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.sectionBody-upperPart {
+  width: 871px;
+  height: 176px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.blogUpperPart-title {
+  width: 900px;
+  height: 96px;
+  text-align: center;
+  color: #2C2F24;
+  font-family: 'Playfair Display', serif;
+  font-size: 100px;
+  line-height: 96px;
+}
+
+.blogUpperPart-para {
+  width: 632px;
+  height: 56px;
+  color: #414536;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  margin: 24px 0;
+}
+
+.sectionBody-lowerPart {
+  width: 1296px;
+  height: 1084px;
+  margin-top: 72px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.blogCard {
+  width: 306px;
+  height: 340px;
+  border-radius: 12px;
+  background-color: #ffff;
+}
+
+.blogCard-img {
+  width: 306px;
+  height: 200px;
+}
+
+.blogCard-details {
+  width: 253px;
+  height: 84px;
+  margin: 12px;
+  margin: 30px auto;
+  
+}
+
+.cardDetails-date {
+  width: 105px;
+  height: 20px;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: Medium;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: left;
+  color: #737865;
+  margin-bottom: 12px;
+}
+
+.cardDetails-para {
+  width: 253px;
+  height: 52px;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  line-height: 26px;
+  font-size: 20px;
+  text-align: left;
+  color: #2C2F24;
+  margin-top: 12px;
+}
