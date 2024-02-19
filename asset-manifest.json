@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/Amit-Project/static/css/main.931eb2a5.css",
-    "main.js": "/Amit-Project/static/js/main.35fa0fe5.js",
+    "main.css": "/Amit-Project/static/css/main.58f0cbdc.css",
+    "main.js": "/Amit-Project/static/js/main.a7f6da95.js",
     "static/js/776.24ed27b6.chunk.js": "/Amit-Project/static/js/776.24ed27b6.chunk.js",
     "static/js/144.e66c02d7.chunk.js": "/Amit-Project/static/js/144.e66c02d7.chunk.js",
     "static/media/Map.png": "/Amit-Project/static/media/Map.fcf77979d879368a17e6.png",
+    "static/media/Desserts.png": "/Amit-Project/static/media/Desserts.f8b010b70b92ba47ce37.png",
+    "static/media/potatos.png": "/Amit-Project/static/media/potatos.b077bba892b97d2c541b.png",
     "static/media/bg.jpg": "/Amit-Project/static/media/bg.031ffa607033a97a1cab.jpg",
     "static/media/sec2-img.png": "/Amit-Project/static/media/sec2-img.8dffe05e5c2605548b21.png",
     "static/media/Cooking.png": "/Amit-Project/static/media/Cooking.3c4d7aa8d3d9688d5e7a.png",
@@ -27,7 +29,6 @@
     "static/media/Couple of Cups.png": "/Amit-Project/static/media/Couple of Cups.9980878a4c80d34c3fd1.png",
     "static/media/Mask group3.jpg": "/Amit-Project/static/media/Mask group3.2173054a5adec291eeb3.jpg",
     "static/media/glutenSushi.png": "/Amit-Project/static/media/glutenSushi.447bf3b36d10173035f9.png",
-    "static/media/potatos.png": "/Amit-Project/static/media/potatos.b077bba892b97d2c541b.png",
     "static/media/sadj-iron-pot.jpg": "/Amit-Project/static/media/sadj-iron-pot.7062e78cafcd8505d140.jpg",
     "static/media/Mask group.jpg": "/Amit-Project/static/media/Mask group.025eaf0015cec1a2ab45.jpg",
     "static/media/ICE Cream.png": "/Amit-Project/static/media/ICE Cream.35ae57b1624a6d41b684.png",
@@ -45,13 +46,13 @@
     "static/media/Andy.png": "/Amit-Project/static/media/Andy.b4c0c0ebb8db372d549f.png",
     "static/media/japanese-food.svg": "/Amit-Project/static/media/japanese-food.edc7bbd8512f44aecd026c81bf75dc49.svg",
     "index.html": "/Amit-Project/index.html",
-    "main.931eb2a5.css.map": "/Amit-Project/static/css/main.931eb2a5.css.map",
-    "main.35fa0fe5.js.map": "/Amit-Project/static/js/main.35fa0fe5.js.map",
+    "main.58f0cbdc.css.map": "/Amit-Project/static/css/main.58f0cbdc.css.map",
+    "main.a7f6da95.js.map": "/Amit-Project/static/js/main.a7f6da95.js.map",
     "776.24ed27b6.chunk.js.map": "/Amit-Project/static/js/776.24ed27b6.chunk.js.map",
     "144.e66c02d7.chunk.js.map": "/Amit-Project/static/js/144.e66c02d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.931eb2a5.css",
-    "static/js/main.35fa0fe5.js"
+    "static/css/main.58f0cbdc.css",
+    "static/js/main.a7f6da95.js"
   ]
 }
